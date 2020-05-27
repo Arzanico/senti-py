@@ -85,7 +85,7 @@ The prediction is calculated with a few rules:
 
 	preScore = prediction(sentence before the 'pero')
 	
-	postScore = prediction(sentence before the 'pero')
+	postScore = prediction(sentence after the 'pero')
 
 	and a barycenter of those two quantities is calculated 
 	
